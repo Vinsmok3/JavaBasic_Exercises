@@ -9,9 +9,9 @@ public class Animal {
         System.out.println("Roarr!");}
 
     public void animalSound(String intensity){
-      if(intensity == "high") {
+      if(intensity.equals("high") ) {
           System.out.println("Roarrrrrrrr!");
-      }else if (intensity == "low") {
+      }else if (intensity.equals("low")) {
             System.out.println("Roar");}
       else{System.out.println("Cannot reproduce it properly");}
     }
