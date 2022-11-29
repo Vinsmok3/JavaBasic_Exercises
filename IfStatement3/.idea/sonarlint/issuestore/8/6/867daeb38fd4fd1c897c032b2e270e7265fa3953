@@ -1,0 +1,13 @@
+
+c
+java:S1226"HIntroduce a new variable instead of reusing the parameter "studentName".(Û¹Ø‚ýÿÿÿÿ
+b
+java:S1226	"GIntroduce a new variable instead of reusing the parameter "studentAge".(ÃÒÊœüÿÿÿÿ
+Y
+java:S1854	">Remove this useless assignment to local variable "studentAge".(ÃÒÊœüÿÿÿÿ
+Z
+java:S1854"?Remove this useless assignment to local variable "studentName".(Û¹Ø‚ýÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(¶´óa
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¸ƒˆ´øÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(·’Ú‰ùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÎæÖ©
